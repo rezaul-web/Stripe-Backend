@@ -17,7 +17,7 @@ import io.ktor.server.routing.*
 
 
 fun Application.configureRouting() {
-    Stripe.apiKey = "sk_test_51QnIRoHzOshtNe2jCEJfDYiOa9Tb6OlcBhgpXFGQOQc65lNbd5bAC9WlUnRjsna3kqxW6PHUZXzNLX45XrC1rab600JVtgSSyR"
+    Stripe.apiKey = YOUR_SECRET_KEY
 
 
 
